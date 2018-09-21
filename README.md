@@ -1,2 +1,10 @@
 # Multi-Language Base Server
-This is a collection of ready-to-run barebone servers written in different languages/frameworks that can be used for web applications.
+This is a collection of ready-to-use barebones RESTful servers written in different languages/frameworks.
+
+## Frameworks/Languages
+- Express (NodeJS)
+- Flask (Python 3)
+- Django (Python, coming soon)
+- Happstack (Haskell, coming soon)
+- Golang (Coming soon)
+- Erlang (Coming soon)
