@@ -4,7 +4,6 @@ This is a collection of ready-to-use barebones RESTful servers written in differ
 ## Frameworks/Languages
 - Express (NodeJS)
 - Flask (Python 3)
-- Django (Python, coming soon)
 - Happstack (Haskell, coming soon)
 - Golang (Coming soon)
 - Erlang (Coming soon)
