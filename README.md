@@ -5,8 +5,7 @@ This is a collection of ready-to-use barebones RESTful servers written in differ
 - Express (NodeJS)
 - Flask (Python 3)
 - Golang
-- Happstack (Haskell, coming soon)
-- Erlang (Coming soon)
+- More coming soon!
 
 ## NodeJS - Express
 Requires Node to be installed on your machine.
