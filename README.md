@@ -4,12 +4,12 @@ This is a collection of ready-to-use barebones RESTful servers written in differ
 ## Frameworks/Languages
 - Express (NodeJS)
 - Flask (Python 3)
-- Golang
+- Gin (Go)
 - More coming soon!
 
-## NodeJS - Express
+## NodeJS - Express (TypeScript)
 Requires Node to be installed on your machine.
-1. Install dependencies with `npm install`.
+1. Install dependencies with `npm i`.
 2. Start the server with `npm start`.
 
 ## Python 3 - Flask
@@ -20,6 +20,6 @@ Requires Python >=3.5, `pip3` and `virtualenv` to be installed on your machine.
 4. Install dependencies with `pip3 install -r requirements.txt`.
 5. Start the server with `python3 server.py`.
 
-## Golang
+## Go - Gin
 Requires Go to be installed on your machine.
 1. Start the server with `go run server.go`.
